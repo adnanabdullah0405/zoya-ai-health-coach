@@ -65,7 +65,22 @@ Zoya is a production-grade AI healthcare coach that users interact with via **te
 zoya-ai-health-coach/
 ├── results/              # Demo outputs and screenshots
 ├── README.md
+
 ```
+
+## 🎬 Demo
+
+📹 [Watch Full Demo Video](https://drive.google.com/file/d/1DU9hfVmXSkJwrUtHIt5S-5Wd0cOLFdjL/view?usp=sharing)
+
+---
+
+## 📸 Screenshots
+
+![Zoya Screenshot 1](results/1780308090858.jfif)
+
+![Zoya Screenshot 2](results/pic%202%20.png)
+
+![Zoya Screenshot 3](results/pic%203%20.png)
 
 ---
 
