@@ -74,15 +74,6 @@ zoya-ai-health-coach/
 
 ---
 
-## 📸 Screenshots
-![Zoya Screenshot 1](results/pic1.png)
-
-![Zoya Screenshot 2](results/pic2.png)
-
-![Zoya Screenshot 3](results/pic3.png)
-
----
-
 ## 📬 Want to Know More?
 
 This is a production system handling real patient data. Deeper implementation details, live demo, and code walkthrough available upon request.
