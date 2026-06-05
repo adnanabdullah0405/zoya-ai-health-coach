@@ -76,6 +76,8 @@ zoya-ai-health-coach/
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ![Zoya Screenshot 1](results/1780308090858.jfif)
 
 ![Zoya Screenshot 2](results/pic%202%20.png)
