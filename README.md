@@ -59,18 +59,34 @@ Zoya is a production-grade AI healthcare coach that users interact with via **te
 
 ---
 
+## 🎬 Demo
+
+[![Watch Demo Video](https://img.shields.io/badge/▶%20Watch%20Demo-Google%20Drive-blue?style=for-the-badge)](https://drive.google.com/file/d/1VOI4f6qQMdJqcTN4LzuZpCvUNv8V6mPG/view?usp=sharing)
+
+> Click the button above to watch the full production demo video.
+
+---
+
+## 📸 Screenshots
+
+![Zoya Screenshot 1](result/image.png)
+
+![Zoya Screenshot 2](result/image%20(1).png)
+
+![Zoya Screenshot 3](result/image%20(2).png)
+
+---
+
 ## 📁 Repository Structure
 
 ```
 zoya-ai-health-coach/
-├── results/              # Demo outputs and screenshots
+├── result/               # Screenshots and demo outputs
+│   ├── image.png
+│   ├── image (1).png
+│   └── image (2).png
 ├── README.md
-
 ```
-
-## 🎬 Demo
-
-📹 [Watch Full Demo Video](https://drive.google.com/file/d/1DU9hfVmXSkJwrUtHIt5S-5Wd0cOLFdjL/view?usp=sharing)
 
 ---
 
